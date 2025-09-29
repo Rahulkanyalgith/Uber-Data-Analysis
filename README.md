@@ -1,16 +1,4 @@
-# Uber Data Analysis with Python
+# Uber Data Analysis 
 
-Uber Technologies, Inc., commonly known as Uber, is ans American technology company. Its services include ride-hailing, food delivery, package delivery, couriers, freight tranportation, and through a partnership with Lime, electric bicycle and motorized scooter rental.
-
-But, we will mainly use data regarding Uber ride and use Python to analyse the data.
-
-We wish to answer the below following question:
-
-- Check how long do people travel with Uber?
-- What Hour Do Most People take Uber To Their Destination?
-- Check The purpose of trips
-- Which Day has the highest number of trips
-- What are the number of trips per each day?
-- What are the trips in the month?
-- The starting points of trips. Where do people start boarding their trip from Most?
+This Uber data analysis project uses Python to explore ride information and answer key questions about user behavior. The analysis includes finding out how long trips last, which hours and days are most popular for rides, the common trip purposes, the number of trips per day and month, and identifying frequent starting points for journeys. These insights help understand ride patterns and peak times for Uber usage.
 
